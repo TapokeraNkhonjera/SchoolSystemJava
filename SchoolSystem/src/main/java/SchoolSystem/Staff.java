@@ -6,7 +6,7 @@ package SchoolSystem;
 
 /**
  *
- * @author stati
+ * @author stati888888
  */
 public class Staff extends Person {
 
